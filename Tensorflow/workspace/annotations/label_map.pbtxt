@@ -1,0 +1,24 @@
+item { 
+	name:'Apple'
+	id:1
+}
+item { 
+	name:'Avocado'
+	id:2
+}
+item { 
+	name:'Banana'
+	id:3
+}
+item { 
+	name:'Cabbage'
+	id:4
+}
+item { 
+	name:'Carrot'
+	id:5
+}
+item { 
+	name:'Potato'
+	id:6
+}
