@@ -1,3 +1,5 @@
 *.record
-Tensorflow/images/**
+**/images/**
+**/images*/**
 .ipynb_checkpoints/**
+**/annotations/**
